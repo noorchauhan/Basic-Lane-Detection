@@ -2,7 +2,7 @@
 This is one of my projects where I have applied my personal Learnings of implementing a basic lane detection pipeline for an autonomous vehicle
 You can find my basic understanding in the notes PDF file, I have not added comments/ Makrdown in the main notebook as it does not look clean to me, you can build your own accordingly
 
-[numerchauhan@gmail.com](mailto:numerchauhan@gmail.com)
+You can reach me here if you have doubts or would like to correct any of my errors [numerchauhan@gmail.com](mailto:numerchauhan@gmail.com)
 
 # Sources
 1. [OpenCV Documentation](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
